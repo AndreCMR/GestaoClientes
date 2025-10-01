@@ -46,9 +46,8 @@ O objetivo é classificar clientes como **Bons, Regulares ou Maus** de acordo co
 
 ### Passos  
 1. Clone o repositório:  
-   ```bash
-   git clone https://github.com/usuario/gestao-clientes-api.git
-   cd gestao-clientes-api
+   ```bash 
+   git clone https://github.com/AndreCMR/GestaoClientes.git
    ```
 
 2. Configure a connection string no `appsettings.json`.  
